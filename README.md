@@ -37,15 +37,19 @@ Using **Word2Vec, GloVe, and BERT embeddings**, along with **KMeans** and **Hier
 
 ## 📁 Repository Structure
 📂 UF Newsroom Clustering
+
 │
+
 ├── UFNewspapersScrapping.ipynb # Scraping 1,000+ UF Newsroom articles
 
 ├── UFNewspapersfinal.ipynb # Preprocessing, embeddings, clustering & evaluation
 
 │
+
 ├── visuals/ # PCA, t-SNE, UMAP images (to be added)
 
 │
+
 └── README.md
 
 
